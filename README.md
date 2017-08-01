@@ -1,7 +1,6 @@
-# Lab - *Github*
+# *Github for iOS*
 
-Time spent: **2** hours spent in total
-
+This app allows you to quickly scroll through free and open source projects, view their description, and open the links on your iDevice!
 
 ## Video Walkthrough
 
@@ -13,7 +12,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This is a simple, structured app to test out the Github API.
 
 ## Credits
 
