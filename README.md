@@ -2,14 +2,6 @@
 
 This app allows you to quickly scroll through free and open source projects, view their description, and open the links on your iDevice!
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/sLS1SaN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 This is a simple, structured app to test out the Github API.
